@@ -1,4 +1,4 @@
-![[assets/logo.png]]
+![Dragon Vomit](assets/logo.png)
 
 #### Overview
 A multi-threaded dorking tool that finds and analyses documents for
