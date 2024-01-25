@@ -2,8 +2,6 @@ module github.com/redskal/dragonvomit
 
 go 1.21
 
-toolchain go1.21.5
-
 require (
 	google.golang.org/api v0.154.0
 	seehuhn.de/go/pdf v0.3.6
