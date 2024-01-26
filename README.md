@@ -1,3 +1,5 @@
+[![Go](https://github.com/redskal/dragonvomit/actions/workflows/go.yml/badge.svg)](https://github.com/redskal/dragonvomit/actions/workflows/go.yml)
+
 ![Dragon Vomit](assets/logo.png)
 
 #### Overview
